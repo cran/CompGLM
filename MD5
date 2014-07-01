@@ -1,0 +1,16 @@
+904a3d2e56a68245f2a312f464fe852f *DESCRIPTION
+afb72732908b74dc98c96cc609765484 *NAMESPACE
+3a6a1a93e7d586ca94ff17401accc30c *R/RcppExports.R
+83172f35776e308345dba440b78dcea7 *R/glm.comp.R
+b226f5dd11e97f99f11682403077f606 *R/methods.R
+ef88fd0c2aaec23d742d3ce79bf289ef *inst/unitTests/report.html
+0c7f55543158ea6387f79d7c2a9b4116 *inst/unitTests/report.txt
+385cd0d4e1d381514d4b93e71767bae9 *inst/unitTests/reportSummary.txt
+14959b405a56e12a979b7e1ffaf6a9d6 *inst/unitTests/runit.comp.R
+a84f84d87b7f16df67fb51e21b76e30a *man/dcomp.Rd
+f721047cf0c0078aa63f2b257312c764 *man/glm.comp.Rd
+75af12263127a002480c29119d4686ab *man/pcomp.Rd
+f14c40b44922c36549405ec3feec38c7 *man/rcomp.Rd
+d3190e3aca95ab262252f6f93b325cd3 *src/RcppExports.cpp
+aa199a48482cbf5a144b669a864fc86d *src/comp.cpp
+c78ca13aa072f2322f970616062f884b *tests/doRUnit.R
